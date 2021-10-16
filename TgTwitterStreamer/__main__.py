@@ -174,7 +174,7 @@ async def startmsg(event):
                     "Source",
                     url=REPO_LINK,
                 ),
-                Button.url("Support Group", url="t.me/FutureCodesChat"),
+                Button.url("Support Group", url="t.me/sluttyoreo"),
             ],
         ],
     )
