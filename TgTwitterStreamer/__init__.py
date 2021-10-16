@@ -5,14 +5,14 @@
 
 from Configs import Var
 
-REPO_LINK = "https://github.com/New-dev0/TgTwitterStreamer"
+REPO_LINK = "https://t.me/Aarzaai_Ishq"
 
 
-CUSTOM_FORMAT = """🎊 **[{SENDER}]({SENDER_PROFILE})** :
+CUSTOM_FORMAT = """🎊 **[Aarz-e-ishq](https://t.me/Aarzaai_Ishq)** :
 
 🍿 {TWEET_TEXT}
 
-• Powered by **[TgTwitterStreamer]({_REPO_LINK})**"""
+• Follow **[Aarzaai_Ishq]({_REPO_LINK})**"""
 
 
 if not Var.CUSTOM_TEXT:
